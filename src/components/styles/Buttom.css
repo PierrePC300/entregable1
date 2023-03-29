@@ -1,0 +1,16 @@
+.button{
+    background-color: var(--blue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    cursor: pointer;
+    transition: background 200ms ease;
+}
+
+.button:hover{
+    background-color: rgb(76, 220, 249);
+}
